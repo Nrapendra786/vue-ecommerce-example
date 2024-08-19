@@ -1,16 +1,16 @@
 export default [{
-    id: '123',
-    name: 'Bag of Potato Chips',
-    price: '$3.99',
-    description: 'Extra salty, and quite delicious',
+    id: '111',
+    name: 'Indian Assam Chai',
+    price: '200 Rupees',
+    description: 'quite delicious',
 }, {
-    id: '234',
+    id: '112',
     name: 'Ketchup',
-    price: '$2.99',
-    description: 'Made from fresh, organic tomatoes',
+    price: '300 Rupees',
+    description: 'made from fresh tomatoes',
 }, {
-    id: '345',
-    name: 'Hamburgers',
-    price: '$5.99',
-    description: 'Made from 100% Angus beef, perfect for cookouts',
+    id: '113',
+    name: 'Papad',
+    price: '400 Rupees',
+    description: 'Made from fresh potatoes',
 }];

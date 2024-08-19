@@ -7,7 +7,7 @@
 	</div>
 	<div>
 		<input placeholder="Name" v-model="name" />
-		<input placeholder="Age" type="number" v-model.number="age" />
+		<input placeholder="Age" v-model="age" />
 		<input placeholder="Address" v-model="address" />
 		<button @click="displayData">Save</button>
 	</div>
